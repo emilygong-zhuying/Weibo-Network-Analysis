@@ -8,4 +8,4 @@ Hypothesis:
 
 ## For more details
 
-[See my Proposal here](https://link-url-here.org](https://docs.google.com/document/d/1_xEOMF1aNBI0XEZ9kS87kxECMURU6AnXk7oRz_tRjT8/edit?usp=sharing)
+[See my Proposal here](https://docs.google.com/document/d/1_xEOMF1aNBI0XEZ9kS87kxECMURU6AnXk7oRz_tRjT8/edit?usp=sharing)
