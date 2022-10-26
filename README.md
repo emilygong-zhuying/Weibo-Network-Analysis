@@ -2,6 +2,7 @@
 
 ## Goals and Objectives:
 Through computational methods, I aim to model Weibo (the second largest social media platform in China) posts with a mathematical network structure to examine account interactions during the period of Shanghai Lockdown. 
+
 Hypothesis: 
 * Individual accounts tend to form small communities around more influential accounts on Weibo who provide insights into current events
 * Viral posts (defined by the number of reposts) tend to have evoked more negative response than positive
